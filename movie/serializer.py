@@ -6,3 +6,4 @@ class MovieSerializer(serializers.Serializer):
         model = Movie 
         fields = '__all__'
         
+        
